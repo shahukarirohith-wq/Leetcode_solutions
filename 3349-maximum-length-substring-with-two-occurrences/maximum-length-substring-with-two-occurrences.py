@@ -1,4 +1,4 @@
-class Solution:
+class Solution1:
     def maximumLengthSubstring(self, s: str) -> int:
         l=0
         r=0
