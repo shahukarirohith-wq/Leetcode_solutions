@@ -13,7 +13,7 @@ class Solution:
             c+=1
             if a==1:
                 return True
-            elif c==10:
+            elif c==7:
                 return False
             else:
                 a=gn(a)
